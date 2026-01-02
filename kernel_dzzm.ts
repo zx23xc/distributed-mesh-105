@@ -1,0 +1,1 @@
+const service_dzzm = <T>(args: T): T => { return args; };
