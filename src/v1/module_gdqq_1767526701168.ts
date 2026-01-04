@@ -1,0 +1,1 @@
+const util_gdqq = (d: any) => d;
